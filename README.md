@@ -27,7 +27,7 @@ There are six different types of pieces; king, rook, bishop, queen, knight, and 
 2. Pieces:
 
    a) Pawn:
-   - Moves forward and captures diagonally.
+   - Moves forward and captures diagonally and forward.
    - On the first move, it can move one or two squares.
    - When reaching the opposite end of the board, it can be promoted to any other piece (except the king).
 
