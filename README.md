@@ -56,7 +56,7 @@ There are six different types of pieces; king, rook, bishop, queen, knight, and 
 
 We made Uml diagram.
 
-![Alt Text](https://github.com/Ashmawy21/finalproject_chessgame-team-seven/blob/5d5744e5cdae07f84e4ef354f441a9c035163b35/01_deliverables/Team07_UML_Diagram%20(2).jpg)
+![Alt Text](https://github.com/Ashmawy21/test-3/blob/03dd28f5a6a593685c6c5d553c68246ed5d4483f/Team07_UML_Diagram%20(2).jpg)
 
 ---
 
