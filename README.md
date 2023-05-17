@@ -54,7 +54,9 @@ There are six different types of pieces; king, rook, bishop, queen, knight, and 
 
 We made Uml diagram.
 
-![Alt Text](https://github.com/Ashmawy21/test-3/blob/03dd28f5a6a593685c6c5d553c68246ed5d4483f/Team07_UML_Diagram%20(2).jpg)
+
+![Team07_UML_Diagram (2)](https://github.com/Ashmawy21/test-3/assets/125339427/f5cbeabf-e3e6-4fc6-b7b0-2a5d7aa1f471)
+
 
 ---
 
