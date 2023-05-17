@@ -11,7 +11,7 @@
 
 ---
 
-**Description**
+***Description***
 
 Chess is played on a board of 64 squares alternate between two colors: light (e.g. white) and dark (e.g. black).
 A player’s army consists of 16 pieces that begin play on the two ranks closest to that player.
