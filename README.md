@@ -11,9 +11,6 @@
 
 ---
 
-<span style="font-size: 30px;">This text will have a larger font size.</span>
-
-
 **Description**
 
 Chess is played on a board of 64 squares alternate between two colors: light (e.g. white) and dark (e.g. black).
